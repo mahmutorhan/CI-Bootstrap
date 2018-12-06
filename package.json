@@ -1,0 +1,15 @@
+{
+  "name": "mahmutorhan.com.tr",
+  "version": "1.0.0",
+  "description": "Codeigniter & Boostrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Codeigniter",
+    "Boostrap"
+  ],
+  "author": "Mahmut Orhan",
+  "license": "MIT"
+}
